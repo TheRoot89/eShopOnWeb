@@ -12,7 +12,7 @@ env:
   WEBAPP-NAME: devops-webapp-westeurope-51182613
 
 
-jobs:eshoponweb-webapp-NAMEeshoponweb-webapp-NAMEeshoponweb-webapp-NAME
+jobs:
   #Build, test and publish .net web project in repository
   buildandtest:
     runs-on: ubuntu-latest
